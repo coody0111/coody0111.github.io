@@ -1,4 +1,4 @@
-# codyliu.github.io
+## Cody Liu
 
 ## Education
 
