@@ -1,7 +1,7 @@
-## Cody Liu
+# Cody Liu
 
-## Education
+### Education
 
-## Work Experience
+### Work Experience
 
-## Projects
+### Projects
