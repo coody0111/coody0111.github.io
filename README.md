@@ -5,6 +5,12 @@
 - B.S. in Economics, Math}Fu-Jen Catholic University}{New Taipei City, Taiwan}(2015 - 2019) 
 
 ## Work Experience
+- Led 300mm Fab dispatching system optimization, reducing manual operations by 20% while ensuring
+cost-effectiveness and meeting production targets
+- Developed SQL/VBA-based reporting systems and contributed to system requirements, enhancing productivity
+monitoring and aligning functionalities with business needs.
+- Developed and implemented a intelligence MCOP project to improve MAO KPIs across the entire 300mm Fab,
+significantly boosting overall operational efficiency.
 
 ## Projects
 
