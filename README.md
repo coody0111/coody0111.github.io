@@ -14,5 +14,5 @@
 - **Database Systems** : MySQL
 - **Data Science & Machine Learning** : Pandas, Numpy, Matplotlib, Seaborn
 - **Specialized Area** : Linux kernel, System programming, Embedded system
-- **Other Tools & Technologies** : Opencv, GDB, Perl, Valgrind, Shell Development, Shell script programming
-## Education
+- **Other Tools & Technologies** : OpenCV, GDB, Perl, Valgrind, Shell Development, Shell script programming
+
