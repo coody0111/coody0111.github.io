@@ -1,8 +1,9 @@
 title: Cody Liu
-description: [Where there’s a will, there’s a way.]
+description: [Where there's a will, there's a way.]
 theme: jekyll-theme-minimal
 
 header_pages:
   - about.md
-  - Posts.md
-  - blog.md
+  - projects.md
+  - skills.md
+  - posts.md
