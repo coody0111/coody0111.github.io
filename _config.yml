@@ -4,5 +4,5 @@ theme: jekyll-theme-minimal
 
 header_pages:
   - about.md
-  - projects.md
+  - Posts.md
   - blog.md
